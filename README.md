@@ -4,7 +4,7 @@ I build tools that help people make better decisions.
 
 ### 🔧 What I'm building
 - **[3DPUT](https://3dput.com)** — The most comprehensive 3D printing filament settings database and printer comparison tool on the web. Find optimal print settings for any printer and filament combo.
-- **[Sailing Yachts Database](https://sailing-yachts.vercel.app)** — Interactive sailing yacht comparison tool with specs from 50+ manufacturers worldwide.
+- **[Sailing Yachts Database](https://info.sailboats.fr)** — Interactive sailing yacht comparison tool with specs from 50+ manufacturers worldwide.
 - **[Sailboats.fr](https://sailboats.fr)** — French sailing guides, equipment reviews, and destination itineraries.
 
 ### 📊 What I know
